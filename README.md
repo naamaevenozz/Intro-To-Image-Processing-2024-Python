@@ -1,1 +1,1 @@
-# IntroToImageProcessing_Python
+Photo editing program. Exposure to basic image processing tools.
